@@ -1,0 +1,12 @@
+Homework 2
+Logan Whitfield
+CSC 462
+Question 1:
+A resource that is not virtualized for ordinary processes is hard disk space. The advantage of not virtualizing this resource is gained efficiency in overall speed and less overhead regarding resource allocation and running cost.
+
+Question 2:
+The example code creates 2^7 copies of the original program and within a fraction of a second all the copies terminate. They become zombies for 60 seconds until the sleep timer is up. None of the copies will have memory allocated but they are still represented by the PCB until the parent program finishes.
+
+
+
+

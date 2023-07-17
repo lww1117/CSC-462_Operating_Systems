@@ -1,0 +1,11 @@
+todo:
+make shell program run command line args
+use fork, exec(execvp specifically), wait
+read man pages for these
+defo avoid fork bombs
+
+
+
+later...
+
+make pipes and redirects work

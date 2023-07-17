@@ -1,0 +1,20 @@
+login:
+
+cmd
+ssh lwwhitfi@ile.uncg.edu
+password
+ls
+scl enable devtoolset-10 bash
+
+transfer files:
+
+ssftp lwwhitfi@ile.uncg.edu
+password
+
+lls
+
+put t.txt// sends file to server
+
+get//retrives file from server
+
+
